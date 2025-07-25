@@ -24,6 +24,8 @@ ______________________________________________________________________
 
 <!-- Add control implementation description here for control: pcidss_4_1-1.1 -->
 
+Example control implementation description 
+
 ### Rules:
 
   - rule-pcidss_4_1-1.1
